@@ -1,0 +1,25 @@
+Welcome to the first of three Git exercises!
+Completing these prompts will help you get more comfortable with
+Git.
+
+1. What is your favorite color? 
+
+*** 
+  Remember to: 
+    - add 
+    - commit
+    - push 
+  your answer before answering the next question! 
+***
+
+2. What is your favorite food?
+
+
+3. Who is your favorite fictional character?
+
+
+4. What is your favorite animal?
+
+
+5. What is your favorite programming language? (Hint: You can always say Python!!)
+
