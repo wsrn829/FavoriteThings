@@ -1,4 +1,4 @@
-Welcome to the first of three Git exercises!
+Welcome to the first Git exercise!
 Completing these prompts will help you get more comfortable with
 Git.
 
