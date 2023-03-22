@@ -2,14 +2,14 @@ Welcome to the first Git exercise!
 Completing these prompts will help you get more comfortable with
 Git.
 
-1. What is your favorite color? 
+1. What is your favorite color? purple
 
-*** 
-  Remember to: 
-    - add 
+***
+  Remember to:
+    - add
     - commit
-    - push 
-  your answer before answering the next question! 
+    - push
+  your answer before answering the next question!
 ***
 
 2. What is your favorite food?
@@ -22,4 +22,3 @@ Git.
 
 
 5. What is your favorite programming language? (Hint: You can always say Python!!)
-
